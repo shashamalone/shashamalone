@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat&logo=Python&logoColor=white"/>
+
+
+
+
+
 <!--
 **shashamalone/shashamalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
