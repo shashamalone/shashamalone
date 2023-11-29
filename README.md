@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 
 
