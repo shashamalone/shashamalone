@@ -25,6 +25,7 @@
 <br><br>
 
 <h3 align="center">🎯 Extracurricular Activity</h3>
+
 ---
 
 <div align="center">
@@ -35,6 +36,7 @@
 
 <br><br>
 <h3 align="center">✨ Tech Stack ✨</h3>
+
 ---
 
 <div align="center">
@@ -44,15 +46,23 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
 </div>
 
 
 
 <h3 align="center">🛠 Tools 🛠</h3>
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Bubble.io-1A1A1A?style=for-the-badge&logo=bubble&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
