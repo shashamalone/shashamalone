@@ -4,7 +4,7 @@
 
 <!--내용 부분-->
 
-<h3 align="center">🏆 Awards 🏆</h3>
+<h3 align="center">🏆 Awards </h3>
 
 ---
 
@@ -18,6 +18,26 @@
 | 2023.12  | AI 허브 안심존 데이터 활용 경진대회       | 최우수상                    |  아이 얼굴 인식 및 행동 본류 AI기반의 발달 장애 검사 자동화 및 보육일지 작성 |    NIA 한국지능정보사회진흥원      |
 | 2023.07  | 이화여대 창업탐색 해커톤X경진대회         | 장려상                      | 대학교 기반 공유 거래 플랫폼 'Renty'          |       이화여자대학교    |
 | 2023.05  | 소프트웨어 연계전공 논문연구 트랙활동 공모전 UML 부문 | 장려상                      | -          |    이화여자대학교      |
+
+
+</div>
+
+<br><br>
+
+
+<h3 align="center">📃 Project</h3>
+
+---
+
+<div align="center">
+
+|  Project Name  | Tech Stack                               | Team	                       |    Period     | Link |
+|:--------:|:----------------------------------------:|:--------------------------:|:------------------------:|:--------:|
+| RAG를 활용한 보아즈 Slack봇 - BOAchat  |   - |  <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |  2024.05 |   👉🏻[Repo](https://github.com/shashamalone/22_MiniProject_BOAchat)   |
+| MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 | Data Preprocessing & Catboost Classfier      |<img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" />    | 2024.02|  👉🏻[Repo](https://github.com/shashamalone/LG-Aimers-4)   |
+| 2023 NH 투자증권 빅데이터 경진대회 | 가치주 전략&모멘텀 전략을 활용한 주식 추이 분석 | <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> | 2023.09| 👉🏻[Repo](https://github.com/shashamalone/NH_Investment_Competition)
+| 사이버보안 AI/빅데이터 챌린지 2023 [A트랙]  | BPE Tokenizer & Vocab Dictionary & RandomforestClassfier| <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> | 2023.11   |   👉🏻[Repo](https://github.com/shashamalone/CyberSecurity_PayloadClassifier)      |
+| KoBERT모델 기반의 Text(예: 일기) 에 어울리는 노래 추천 프로젝트  | - | <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |2023.10 |   👉🏻[Repo](https://github.com/shashamalone/KoBERT_music_recomendation)      |
 
 
 </div>
