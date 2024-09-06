@@ -34,11 +34,11 @@
 |  Project Name  | Tech Stack                               | Team	                       |    Period     | Link |
 |:--------:|:----------------------------------------:|:--------------------------:|:------------------------:|:--------:|
 | 흉부 X-ray 병명 진단 AI Dr. Deep Chest |  LoRA Fine-Tuning, LoRA-Alpaca |  <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |  2024.05 |   👉🏻[Repo](https://github.com/shashamalone/22_MiniProject_BOAchat) , [PPT](https://github.com/shashamalone/LoRA_Dr.DeepChest/blob/main/%ED%9D%89%EB%B6%80%20X-ray%20%EB%B3%91%EB%AA%85%20%EC%A7%84%EB%8B%A8%20_%EB%A9%80%ED%8B%B0%EB%A1%9C%EB%9D%BC%ED%8C%A1_22%EA%B8%B0_mini2.pdf)  |
-| RAG를 활용한 보아즈 Slack봇 - BOAchat  |   - |  <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |  2024.05 |   👉🏻[Repo](https://github.com/shashamalone/22_MiniProject_BOAchat)   |
+| RAG를 활용한 보아즈 Slack봇 - BOAchat  |  Chatbot(GPT 3.5 Turbo/Langchain),Vector DB(Finecone) |  <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |  2024.05 |   👉🏻[Repo](https://github.com/shashamalone/22_MiniProject_BOAchat)   |
 | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발 | Data Preprocessing & Catboost Classfier      |<img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" />    | 2024.02|  👉🏻[Repo](https://github.com/shashamalone/LG-Aimers-4),[PPT](https://github.com/shashamalone/LG-Aimers-4/blob/main/LG-aimers-4_%EC%98%81%EC%97%85%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4.pdf)  |
 | 2023 NH 투자증권 빅데이터 경진대회 | 가치주 전략&모멘텀 전략을 활용한 주식 추이 분석 | <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> | 2023.09| 👉🏻[Repo](https://github.com/shashamalone/NH_Investment_Competition)
 | 사이버보안 AI/빅데이터 챌린지 2023 [A트랙]  | BPE Tokenizer & Vocab Dictionary & RandomforestClassfier| <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> | 2023.11   |   👉🏻[Repo](https://github.com/shashamalone/CyberSecurity_PayloadClassifier)      |
-| KoBERT모델 기반의 Text(예: 일기)에 어울리는 노래 추천 프로젝트  | - | <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |2023.10 |   👉🏻[Repo](https://github.com/shashamalone/KoBERT_music_recomendation)      |
+| KoBERT모델 기반의 Text(예: 일기)에 어울리는 노래 추천 프로젝트  | Kobert Model, cosine similarity| <img src="https://img.shields.io/badge/Team-D8BFD8?style=flat-square" /> |2023.10 |   👉🏻[Repo](https://github.com/shashamalone/KoBERT_music_recomendation)      |
 
 
 </div>
