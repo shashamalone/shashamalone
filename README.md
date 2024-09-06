@@ -20,6 +20,10 @@
 
 </div>
 
+<h3 align="center">🎯 Extracurricular Activity</h3>
+2024.01 - Present: 국내 최초 빅데이터 동아리 BOAZ 데이터분석 트랙
+2024.01 - Present: 국내 최초 빅데이터 동아리 BOAZ 기획팀
+2023.08 - 2024.02: (엔코아)플레이데이터 데이터 애널리시스 트랙 33기
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -70,3 +74,6 @@
 </a>
 
 </div>
+
+
+
