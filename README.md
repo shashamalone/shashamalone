@@ -11,7 +11,7 @@
 
 | 날짜      | 대회                                      | 수상                        | 프로젝트                     | 주관 |
 |:--------:|:----------------------------------------:|:--------------------------:|:------------------------:|:--------:|
-| 2024.12  |[2024 NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236348/overview/description) | 본/결선진출 및 장려상     | Bloomii ETF ChatBot - NH투자증권의 새로운 하이브리드 투자 어드바이저         |    NH투자증권     |
+| 2024.12  |[2024 NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/236348/overview/description) | 본/결선 진출 및 장려상     | Bloomii ETF ChatBot - NH투자증권의 새로운 하이브리드 투자 어드바이저         |    NH투자증권     |
 | 2024.09  | 대학생 창업 부트캠프 '아산 두어스(Asan Doers)' 2기 | 본선 진출 및 장려상     | [지도 기반 외국인 대상 병원 큐레이션 앱 'Na-Vi'](https://disquiet.io/product/navi)             |    아산나눔재단      |
 | 2024.07  | 이화여대 경영학술 활동 평가 공모전        | 우수상                   |  -        |    이화여자대학교      |
 | 2024.02  | LG Aimers 4기                            | 본선 진출                   | [MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발](https://github.com/shashamalone/LG-Aimers-4/blob/main/LG-aimers-4_%EC%98%81%EC%97%85%EC%B1%94%ED%94%BC%EC%96%B8%EC%8A%A4.pdf)  |  LG AI Research        |
