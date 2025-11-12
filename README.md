@@ -42,9 +42,10 @@
 
 
 </div>
-
 <br><br>
----
+
+<h3 align="center">🎯 Extracurricular Activity</h3>
+<hr>
 
 <div align="center">
   <p>2024.01 - 2025.01 : 국내 최초 빅데이터 동아리 BOAZ 분석 부문 대표진 </p>
