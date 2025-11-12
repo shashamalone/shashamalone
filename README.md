@@ -44,19 +44,6 @@
 </div>
 
 <br><br>
-<h3 align="center">💼 Work Experience</h3>
-<hr>
-<div align="center">
-  <p><b>2025.01 - 2025.06 : PTKOREA 인턴 (5개월)</b></p>
-  <p style="margin-top:-10px;"><i>NPS VoC 기반 CX분석 / LLM RAG 챗봇 개발</i></p>
-  <br>
-  <p><b>2025.06 - 2025.08 : IBK기업은행 인턴 (1개월반)</b></p>
-  <p style="margin-top:-10px;"><i>디지털부문 문화콘텐츠금융팀</i></p>
-</div>
-
-<br>
-<h3 align="center">🎯 Extracurricular Activity</h3>
-
 ---
 
 <div align="center">
